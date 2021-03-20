@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\bin\Debug\netcoreapp3.1\ej3xdxdxd.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\ej3xdxdxd\ej3xdxdxd\obj\Debug\netcoreapp3.1\ej3xdxdxd.genruntimeconfig.cache

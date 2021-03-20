@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\bin\Debug\netcoreapp3.1\Tareaxdxd.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea123ej\Tareaxdxd\Tareaxdxd\obj\Debug\netcoreapp3.1\Tareaxdxd.genruntimeconfig.cache
